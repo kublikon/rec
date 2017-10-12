@@ -1,0 +1,20 @@
+{
+    "name":"rec",
+    "version":"0.0.1",
+    "description":"Recommendations for everything",
+    "contributors":[
+        "Jakub Szerszen <kpx.dev@gmail.com>"
+    ],
+    "repository":{
+        "url":"https://github.com/kublikon/rec.git",
+        "type":"git"
+    },
+    "dependencies": {
+      "yelp-fusion": "1.0.3"
+    },
+    "keywords": [
+      "recommendations"
+    ],
+    "preferGlobal": false,
+    "private": false
+}
